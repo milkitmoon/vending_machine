@@ -36,7 +36,6 @@
 
 > IDE를 통한 실행 
 - com.milkit.app.vending.main 패키지의 VendingMain.java 소스에서 main 메소드를 선택하여 실행하실 수 있습니다.
-
 <img src="https://user-images.githubusercontent.com/61044774/90481365-98882c00-e16c-11ea-99d3-e6f9d77e73dd.png" width="100%"></img>
 
 ---
