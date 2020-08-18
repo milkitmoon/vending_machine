@@ -1,0 +1,1 @@
+java -classpath bin; com.milkit.app.vending.main.VendingMain

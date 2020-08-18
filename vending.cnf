@@ -1,0 +1,8 @@
+#(A, B, C) Type
+coin=A
+
+#(A, B, C) Type
+bill=A
+
+#(A, B) Type
+display=A
