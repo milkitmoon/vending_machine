@@ -23,7 +23,7 @@
 
 > 동전/지폐/디스플레이 설정
 - 프로젝트 홈의 'vending.cnf' 파일을 통해 설정을 조절할 수 있습니다.
-<img src="https://user-images.githubusercontent.com/61044774/90479845-47773880-e16a-11ea-9e17-24299e49b846.png" width="100%"></img>
+<img src="https://user-images.githubusercontent.com/61044774/90479845-47773880-e16a-11ea-9e17-24299e49b846.png" width="80%"></img>
 
 
 - 동전과 지폐는 A/B/C 타입 선택
