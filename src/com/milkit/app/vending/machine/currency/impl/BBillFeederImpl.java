@@ -10,6 +10,7 @@ import com.milkit.app.vending.machine.currency.CurrencyFeeder;
 
 public class BBillFeederImpl extends AbstractCurrencyFeederImpl {
 
+	@Override
 	public List<Currency> generateCurrencyList() {
 		List<Currency> currencyList = new ArrayList<Currency>();
 		currencyList.add(new Currency(CurrencyEnum.WON, 1000));
