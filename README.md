@@ -14,7 +14,6 @@
 
 # 2. 기술명세
 - 언어 : Java 1.8
-- IDE : STS 4
 - 프레임워크 & lib : 사용하지 않음
 - 기타 : strategy, template method, delegation, builder 패턴 등을 사용하여 구현하였습니다.
 
